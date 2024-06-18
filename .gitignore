@@ -92,3 +92,5 @@ target/
 # Ignore the local outputs
 outputs/
 
+# gHacks-specific virtual env
+.playground
